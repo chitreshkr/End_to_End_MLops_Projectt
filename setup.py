@@ -8,6 +8,7 @@ __version__ = "0.0.0"
 REPO_NAME = "END-TO-END-MLOPS-PROJECT"
 AUTHOR_USERNAME = "CHITRESHKR"
 SRC_REPO = "MLOps_project"
+AUTHOR_EMAIL = "kchit.resh.kumar@gmail.com"
 
 
 setuptools.setup(
